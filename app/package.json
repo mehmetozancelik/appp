@@ -1,0 +1,11 @@
+{
+  "name": "aqq",
+  "version": "0.0.1",
+  "description": "",
+  "main": "beta.js",
+  "scripts": {
+    "test": "node beta.js"
+  },
+  "author": "beta",
+  "license": "ISC"
+}
